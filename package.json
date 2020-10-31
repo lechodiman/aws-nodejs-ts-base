@@ -1,7 +1,7 @@
 {
   "name": "aws-nodejs-ts-base",
   "version": "1.0.0",
-  "description": "Serverless webpack example using Typescript",
+  "description": "Optimized Typescript template for Serverless Framework projects",
   "main": "handler.js",
   "scripts": {
     "deploy": "sls deploy -v",
