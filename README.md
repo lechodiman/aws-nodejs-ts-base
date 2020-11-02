@@ -12,7 +12,7 @@ Base template for Serverless Projects. It comes with `serverless-bundle`, `serve
 To use this template, run:
 
 ```bash
-sls create --path my-service --template https://github.com/lechodiman/aws-nodejs-ts-base
+sls create --path my-service --template-url https://github.com/lechodiman/aws-nodejs-ts-base
 ```
 
 This will create a new project with name `my-service` and the structure and packages provided by this template.
